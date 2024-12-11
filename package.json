@@ -1,0 +1,14 @@
+{
+  "name": "simplescraper",
+  "version": "1.0.0",
+  "main": "example.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^23.10.3"
+  }
+}
